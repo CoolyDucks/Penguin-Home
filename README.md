@@ -1,2 +1,8 @@
-# Penguin-Home
-Penguin Home is a Shell Script just a running him, make your home ready to "pictures" and "sound" and everything you need on Linux
+# What That? ⛷️
+
+- This is a Set up tool for your work ✓
+- It a free tool for use, No problem's on The Script 📚
+
+# Why Penguin Home?
+
+- be cause it free, your use, and work fast possible 🫠
